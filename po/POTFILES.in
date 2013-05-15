@@ -1,0 +1,4 @@
+# List of source files containing translatable strings.
+src/mnb-clipboard-item.c
+src/meego-panel-pasteboard.c
+data/meego-panel-pasteboard.desktop.in.in
