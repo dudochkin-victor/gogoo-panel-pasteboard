@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Exec=@PKG_LIBEXECDIR@/meego-panel-pasteboard
+TryExec=@PKG_LIBEXECDIR@/meego-panel-pasteboard
+_Name=pasteboard
+Icon=meego-panel-pasteboard
+_Comment=Pasteboard panel
+Terminal=false
+Categories=
+OnlyShowIn=MEEGO;
+X-Meego-Priority=Low
+X-Meego-Service=com.meego.UX.Shell.Panels.pasteboard
+X-Meego-Panel-Optional=true
+X-Meego-Panel-Button-Style=pasteboard-button

@@ -1,4 +1,4 @@
 [D-BUS Service]
 Name=com.meego.UX.Shell.Panels.pasteboard
-Exec=@libexecdir@/meego-panel-pasteboard
+Exec=@PKG_LIBEXECDIR@/meego-panel-pasteboard
 
